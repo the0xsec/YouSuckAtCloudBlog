@@ -17,4 +17,4 @@ enableToc: true
 saveAsDraft:  true
 ---
 
-# What are Mountpoints?
+# What are AWS S3 Mountpoints?
