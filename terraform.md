@@ -26,7 +26,7 @@ seoDescription:
 
 disableComments: true
 
-seriesSlug: identity-center-terraform
+seriesSlug:
 
 enableToc: true
 
