@@ -30,7 +30,7 @@ seriesSlug:
 
 enableToc: true
 
-saveAsDraft:  true
+saveAsDraft:  false
 
 ---
 
