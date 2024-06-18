@@ -1,7 +1,7 @@
 ---
 title: What Are AWS S3 Mountpoints
-slug: idc-users-with-tf
-tags: terraform, aws
+slug: s3-mountpoints-explained
+tags: terraform, aws, s3
 domain: blog.ysac.the0x.dev
 subtitle: A Guide
 cover: 
