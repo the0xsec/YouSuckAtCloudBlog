@@ -8,7 +8,7 @@ tags: terraform, aws
 
 domain: blog.ysac.the0x.dev
 
-subtitle: A Guide
+subtitle: A Gude
 
 cover:
 
